@@ -1,0 +1,8 @@
+{
+    "students": [
+        { "name": "Kalid Alzahrani", "grade": 85 },
+        { "name": "Mazen Saleh", "grade": 45 },
+        { "name": "Omar Alqahtani", "grade": 70 },
+        { "name": "Yazan Turki", "grade": 55 }
+    ]
+}
